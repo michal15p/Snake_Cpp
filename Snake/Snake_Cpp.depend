@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1649360381 source:d:\projects\snake_cpp\main.cpp
+	<iostream>
+	"Snake.h"
+
+1649360368 d:\projects\snake_cpp\include\snake.h
+
+1649360355 source:d:\projects\snake_cpp\src\snake.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<time.h>
+	<conio.h>
+	<cstdlib>
+	<vector>
+	"Snake.h"
+
+1649360381 source:d:\projects\snake_cpp\snake\main.cpp
+	<iostream>
+	"Snake.h"
+
+1649360368 d:\projects\snake_cpp\snake\include\snake.h
+
+1649360991 source:d:\projects\snake_cpp\snake\src\snake.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<time.h>
+	<conio.h>
+	<cstdlib>
+	<vector>
+	"Snake.h"
+
